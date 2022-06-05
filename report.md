@@ -7,16 +7,9 @@ header-includes:
 
 <span style="font-size : smaller">
 
-<div style="text-align: center;">
-
 # title
 
-</div>  
-<div style="text-align: right;">
-
-## name
-
-</div> 
+## \rightline{name}
 
 ## chapter title
 
